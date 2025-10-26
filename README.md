@@ -1,16 +1,35 @@
-# React + Vite
+# 🛍️ React E-Commerce — SMIT Hackathon 2025
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, fully responsive **E-Commerce web app** built with **React**, **Tailwind CSS**, and **Context API**.  
+Developed as part of the **SMIT Hackathon 2025**, this project showcases efficient state management, reusable UI components, and a clean design inspired by top modern online stores.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🌐 Live Demo
+🚀 **View the deployed site:** [react-ecommerce-two-eta.vercel.app](https://react-ecommerce-two-eta.vercel.app/)
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## ✨ Features
+- 🛒 **Add to Cart / Remove from Cart**
+- 🧩 **Category-wise Filtering**
+- 💬 **Responsive Design (Desktop + Mobile)**
+- ⚡ **Fast Performance using Vite**
+- 🎨 **Styled with Tailwind CSS**
+- 🔄 **Dynamic Product Rendering via Context API**
+- 📱 **Mobile Filter Toggle System**
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🧠 Tech Stack
+| Category | Technology |
+|-----------|-------------|
+| **Frontend** | React (Vite) |
+| **Styling** | Tailwind CSS |
+| **State Management** | React Context API |
+| **Deployment** | Vercel |
+| **Icons & Assets** | Custom Assets / Lucide Icons |
+
+---
+
+## 📂 Folder Structure
